@@ -16,7 +16,7 @@
 title: Kevin's Fun and Exciting Website
 email: "kmarx@caltech.edu"
 description: Archive of interesting things written/compiled by Kevin
-baseurl: "/kevin_website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://kmarx-kmarx-kmarx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
