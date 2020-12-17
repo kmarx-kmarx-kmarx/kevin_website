@@ -16,11 +16,11 @@
 title: Kevin's Fun and Exciting Website
 author: Kevin Marx, EE Student
 email: "kmarx@caltech.edu"
-description: Archive of interesting things written/compiled by Kevin
+description: Kevin's personal blog. Conttains lots of electrical engineering nonsense.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://kmarx-kmarx-kmarx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-repository: "kmarx-kmarx-kmarx/kevin_website"
+repository: "kmarx-kmarx-kmarx.github.io"
 
 # Build settings
 plugins:
@@ -29,6 +29,7 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - demo.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
